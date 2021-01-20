@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 <template>
     <div class="cd-section" id="blogs" >
         <!--     *********     BLOGS 2      *********      -->
@@ -13,7 +6,6 @@
                 <div class="row">
                     <div class="col-md-10 ml-auto mr-auto">
                         <!-- <h2 class="title"></h2> -->
-                        <br />
                         <div class="row justify-content-center">
                             <div class="col-md-5">
                                 <card type="blog" plain>
