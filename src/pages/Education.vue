@@ -1,39 +1,44 @@
 <template>
     <div class="cd-section" id="headers">
-
         <education-header></education-header>
+
+        <div id="example-1">
+          <button v-on:click="counter += 1">Add 1</button>
+          <p>The button above has been clicked {{ counter }} times.</p>
+        </div>
 
         <br><br>
         <tabs type="primary" tabContentClasses="tab-subcategories"
-          square centered>
-          <tab-pane > 
+          square centered class="row">
+          <tab-pane> 
           <span slot="label">
             Oral Health
           </span>
-            <oral-health></oral-health>
           </tab-pane>
           <tab-pane>
           <span slot="label" @click="changeTab(1)">
             Post-op Instructions
           </span>
-            <post-op-instructions></post-op-instructions>
           </tab-pane>
           <tab-pane>
           <span slot="label" @click="changeTab(2)">
             FAQ's and Links
           </span>
-            <faq-and-links></faq-and-links>
+            <p>{{tabText.p31}}</p>
+            <p>{{tabText.p32}}</p>
           </tab-pane>
         </tabs>
+
+      
+        <oral-health v-if="this.selected === 0"></oral-health>
+        
         
     </div>
 </template>
 <script>
-  import OralHealth from './Education/OralHealth.vue';
-  import EducationHeader from './Education/EducationHeader.vue';
+  import OralHealth from './Education/OralHealth.vue'
+  import EducationHeader from './Education/EducationHeader.vue'
   import { Card, InfoSection, Badge, Button, Tabs, TabPane } from '@/components';
-import PostOpInstructions from './Education/PostOpInstructions.vue';
-import FaqAndLinks from './Education/FaqAndLinks.vue';
 
 
 
@@ -42,9 +47,7 @@ import FaqAndLinks from './Education/FaqAndLinks.vue';
         OralHealth,
         EducationHeader,
         Tabs,
-        TabPane,
-        PostOpInstructions,
-        FaqAndLinks
+        TabPane
     },
     data() {
       return {
@@ -60,13 +63,13 @@ import FaqAndLinks from './Education/FaqAndLinks.vue';
         }
       }
     },
-    // methods: {
-    //   changeTab(num) {
-    //     this.selected = num;
-    //     print("selected ------------- ", this.selected)
-    //   }
+    methods: {
+      changeTab(num) {
+        this.selected = num;
+        print("selected ------------- ", this.selected)
+      }
 
-    // }
+    }
   }
 </script>
 
