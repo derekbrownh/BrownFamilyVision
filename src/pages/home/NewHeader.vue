@@ -2,7 +2,7 @@
     <div class="cd-section" id="headers" >
         <div class="header-2">
             <div class="page-header header-filter">
-                <div class="page-header-image" style="background-image: url('img/bg14.jpg')"></div>
+                <div class="page-header-image" style="background-image: url('img/stetson-village-family-team-2018.jpg')"></div>
                 <div class="content-center">
                     <div class="container">
                         <div class="row">

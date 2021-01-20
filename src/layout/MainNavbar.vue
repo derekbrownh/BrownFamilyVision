@@ -17,15 +17,15 @@
                 </el-popover>
         </template>
         <template slot="navbar-menu">
-            <drop-down tag="li" title="Components" icon="now-ui-icons design_app" class="nav-item">
-                <nav-link to="/components">
+            <drop-down tag="li" title="Home" icon="now-ui-icons design_app" class="nav-item">
+                <!-- <nav-link to="/components">
                     <i class="now-ui-icons business_chart-pie-36"></i> Components
                 </nav-link>
                 <a href="https://demos.creative-tim.com/vue-now-ui-kit-pro/documentation" target="_blank" class="dropdown-item">
                     <i class="now-ui-icons design_bullet-list-67"></i> Documentation
-                </a>
+                </a> -->
             </drop-down>
-            <drop-down tag="li" title="sections" icon="now-ui-icons files_paper" class="nav-item">
+            <drop-down tag="li" title="About Us" icon="now-ui-icons files_paper" class="nav-item">
                 <nav-link class="dropdown-item" to="/sections#headers">
                     <i class="now-ui-icons shopping_box"></i> Headers
                 </nav-link>
@@ -52,7 +52,7 @@
                 </nav-link>
             </drop-down>
 
-            <drop-down tag="li" title="Examples" icon="now-ui-icons design_image" class="nav-item">
+            <drop-down tag="li" title="Procedures" icon="now-ui-icons design_image" class="nav-item">
                 <nav-link to="/about">
                     <i class="now-ui-icons business_bulb-63"></i> About-us
                 </nav-link>
@@ -90,7 +90,7 @@
             <li class="nav-item">
                 <a class="nav-link btn btn-primary"
                    href="https://www.creative-tim.com/product/vue-now-ui-kit-pro" target="_blank">
-                    <p>Buy Now</p>
+                    <p>Patient Portal</p>
                 </a>
             </li>
 
