@@ -6,6 +6,8 @@ import NewHome from "./pages/NewHome.vue";
 import About from "./pages/AboutUs.vue";
 import Education from "./pages/Education.vue";
 import Procedures from "./pages/Procedures.vue";
+import Contact from "./pages/Contact.vue";
+
 
 
 
@@ -22,6 +24,12 @@ const router = new Router({
       path: "/education",
       name: "education",
       components: {default: Education, header: MainNavbar, footer: MainFooter},
+      props: {header: {colorOnScroll: 450}}
+    },
+    {
+      path: "/contact",
+      name: "contact",
+      components: {default: Contact, header: MainNavbar, footer: MainFooter},
       props: {header: {colorOnScroll: 450}}
     },
     {

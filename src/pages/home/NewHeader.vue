@@ -7,10 +7,12 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-8 ml-auto mr-auto text-center">
-                                <h1  class="title"> {{masterData.CompanyName}} </h1>
+                                <img src="img/dentist/logo.png" style="margin-bottom: 20px;"/>
+                                
+                                <!-- <h1  class="title"> {{masterData.CompanyName}} </h1> -->
                                 <h5 class="description">{{masterData.WelcomeMessage}}</h5>
                             </div>
-                            <div class="col-md-10 ml-auto mr-auto">
+                            <!-- <div class="col-md-10 ml-auto mr-auto">
                                 <div class="card card-raised card-form-horizontal card-plain" data-background-color>
                                     <div class="card-body">
                                         <form method="" action="">
@@ -31,7 +33,7 @@
                                         </form>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>

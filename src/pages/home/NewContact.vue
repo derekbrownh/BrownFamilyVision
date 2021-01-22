@@ -1,28 +1,35 @@
 <template>
     <div class="cd-section" id="contactus">
         <!--     *********    CONTACT US 1     *********      -->
-        <div class="contactus-1 section-image" style="background-image: url('img/contact1.jpg')">
+        <div class="contactus-1 section-image" style="background-image: url('img/dentist/image44.jpg')">
             <div class="container">
                 <div class="row">
                     <div class="col-md-5">
                         <h2 class="title">Get in Touch</h2>
-                        <h4 class="description">You need more information? Check what other persons are saying about our
-                            product. They are very happy with their purchase.</h4>
+                        <h4 class="description">Need to schedule an appointment? Need more information? Please contact us, and our team will get back to you as soon as possible.</h4>
                         <info-section type="primary"
                                       icon="now-ui-icons location_pin">
                             <h4 class="info-title">Find us at the office</h4>
-                            <p class="description"> Bld Mihail Kogalniceanu, nr. 8,
-                                <br> 7652 Bucharest,
-                                <br> Romania
+                            <p class="description"> 3870 W. Happy Valley #154
+                                <br> Glendale, AZ 85310
                             </p>
+
+
+
+
                         </info-section>
 
                         <info-section type="primary"
                                       icon="now-ui-icons tech_mobile">
                             <h4 class="info-title">Give us a ring</h4>
-                            <p class="description"> Michael Jordan
-                                <br> +40 762 321 762
-                                <br> Mon - Fri, 8:00-22:00
+                            <p class="description"> +1 (623) 533-4895
+                            </p>
+                        </info-section>
+                        <info-section type="primary"
+                                      icon="now-ui-icons ui-1_calendar-60">
+                            <h4 class="info-title">Our Hours</h4>
+                            <p class="description">Mon - Wed, 8:00am - 7:00pm
+                                <br> Thurs - Fri, 8:00am - 4:00pm
                             </p>
                         </info-section>
                     </div>

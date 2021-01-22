@@ -3,6 +3,8 @@
         <new-header></new-header>
         <why-us></why-us>   
         <our-team></our-team>   
+        <portal></portal>
+        
         <new-contact></new-contact>
     </div>
 </template>
@@ -13,6 +15,7 @@
   import OurTeam from './home/OurTeam'
   import NewHeader from './home/NewHeader'
   import NewContact from './home/NewContact'
+  import Portal from './home/Portal.vue';
 
 
 
@@ -27,9 +30,11 @@
       WhyUs,
       OurTeam,
       NewHeader,
-      NewContact
+      NewContact,
+      Portal
     }
   }
+
 </script>
 
 

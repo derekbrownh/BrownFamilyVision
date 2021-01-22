@@ -2,7 +2,7 @@
     <div class="wrapper">
         <div class="page-header page-header-small">
             <parallax class="page-header-image"
-                 style="background-image: url('img/dentist/image48.jpg')">
+                 style="background-image: url('img/dentist/image57.jpg')">
             </parallax>
             <div class="content-center">
                 <div class="row">

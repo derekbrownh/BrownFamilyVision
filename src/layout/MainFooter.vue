@@ -5,33 +5,45 @@
         <div class="container">
             <nav>
                 <ul>
-                    <li>
-                        <a href="https://www.creative-tim.com">
-                            Creative Tim
-                        </a>
+                    <li class="nav-item">
+                        <router-link class="nav-link" href="#pablo" to="/home">
+                            Home
+                        </router-link>
                     </li>
-                    <li>
-                        <a href="https:///presentation.creative-tim.com">
+                    <li class="nav-item">
+                        <router-link class="nav-link" href="#pablo" to="/about">
                             About Us
-                        </a>
+                        </router-link>
                     </li>
-                    <li>
-                        <a href="https:///blog.creative-tim.com">
-                            Blog
-                        </a>
+
+                    <li class="nav-item">
+                        <router-link class="nav-link" href="#pablo" to="/education">
+                            Education
+                        </router-link>
                     </li>
+
+                    <li class="nav-item">
+                        <router-link class="nav-link" href="#pablo" to="/procedures">
+                            Procedures
+                        </router-link>
+                    </li>
+
+                    <li class="nav-item">
+                        <router-link class="nav-link" href="#pablo" to="/contact">
+                            Contact Us
+                        </router-link>
+                    </li>
+
                     <li>
-                        <a href="https://www.creative-tim.com/license">
-                            License
+                        <a href="https://rwl.io/p3455" target="_blank">
+                            Patient Portal
                         </a>
                     </li>
                 </ul>
             </nav>
             <div class="copyright">
                 &copy; {{year}}, Designed by
-                <a href="https:///www.invisionapp.com" target="_blank">Invision</a>. Coded by
-                <a href="https://github.com/cristijora" target="_blank">Cristi Jora</a> and
-                <a href="https://www.creative-tim.com" target="_blank">Creative Tim</a>.
+                <a href="https:///www.invisionapp.com" target="_blank">Nathan Clark</a>.
             </div>
         </div>
     </footer>

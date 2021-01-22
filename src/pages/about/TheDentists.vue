@@ -5,9 +5,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 ml-auto mr-auto text-center">
-                        <h2 class="title">The Executive Team 4</h2>
-                        <h4 class="description">This is the paragraph where you can write more details about your team.
-                            Keep you user engaged by providing meaningful information.</h4>
+                        <h2 class="title">Our Dentists</h2>
+                        <!-- <h4 class="description">Our team consists of dedicated individuals who are kind, friendly, and caring. Our staff is here to ensure a pleasant experience during your visit to our office..</h4> -->
                     </div>
                 </div>
                 <div class="row">
@@ -17,17 +16,17 @@
                                 <div class="col-md-5">
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/olivia.jpg"/>
+                                            <img class="img img-raised rounded" src="img/dentist/Dr_1.png"/>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h4 class="card-title">Ella Evelyn</h4>
-                                        <h6 class="category">Air Crew Member</h6>
+                                        <h4 class="card-title">Tony Brock</h4>
+                                        <h6 class="category">General Dentist, Practice Owner</h6>
                                         <p class="card-description">
-                                            Think in the morning. Act in the noon. Eat in the evening. Sleep in the
-                                            night......
+                                            Dr. Brock received a bachelor's from Purdue and his DDS from Midwestern University.
+
                                         </p>
                                         <div class="card-footer">
                                             <a href="#pablo" class="btn btn-icon btn-neutral btn-twitter"><i
@@ -48,16 +47,16 @@
                                 <div class="col-md-5">
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/emily.jpg"/>
+                                            <img class="img img-raised rounded" src="img/dentist/Dr_3.jpg"/>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h4 class="card-title">Mila Skylar</h4>
-                                        <h6 class="category">Architect</h6>
+                                        <h4 class="card-title">Brynn Van Dyke</h4>
+                                        <h6 class="category">General Dentist</h6>
                                         <p class="card-description">
-                                            Love cures people - both the ones who give it and the ones who receive it...
+                                            Dr. Van Dyke received a bachelor's from Weber and her DDS from Midwestern.
                                         </p>
                                         <div class="card-footer">
                                             <a href="#pablo" class="btn btn-icon btn-neutral btn-linkedin"><i
@@ -80,17 +79,16 @@
                                 <div class="col-md-5">
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/james.jpg"/>
+                                            <img class="img img-raised rounded" src="img/dentist/Dr_2.jpg"/>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h4 class="card-title">Daniel Carter</h4>
-                                        <h6 class="category">Aviation Inspector</h6>
+                                        <h4 class="card-title">Larry Johns</h4>
+                                        <h6 class="category">Endodontist</h6>
                                         <p class="card-description">
-                                            Keep your face always toward the sunshine - and shadows will fall behind
-                                            you...
+                                            Dr. Johns received a bachelor's from Weber and his DDS from Midwestern.
                                         </p>
                                         <div class="card-footer">
                                             <a href="#pablo" class="btn btn-icon btn-neutral btn-youtube"><i
@@ -111,17 +109,17 @@
                                 <div class="col-md-5">
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/michael.jpg"/>
+                                            <img class="img img-raised rounded" src="img/dentist/Dr_4.jpg"/>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h4 class="card-title">Dylan Wyatt</h4>
-                                        <h6 class="category">Conservation Scientist</h6>
+                                        <h4 class="card-title">Brent Woodmansee</h4>
+                                        <h6 class="category">Sedation and Teeth Extractions</h6>
                                         <p class="card-description">
-                                            There is only one corner of the universe you can be certain of improving,
-                                            and that's your own self...
+                                            Dr. Woodmansee received a bachelor's from Weber and his DDS from Midwestern.
+
                                         </p>
                                         <div class="card-footer">
                                             <a href="#pablo" class="btn btn-icon btn-neutral btn-linkedin"><i

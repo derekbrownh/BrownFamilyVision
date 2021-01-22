@@ -11,7 +11,7 @@
                             <div class="row">
                                 <div class="col-md-4">
                                     <div class="card-image">
-                                        <img class="img img-raised rounded" src="img/examples/card-blog10.jpg" />
+                                        <img class="img img-raised rounded" src="img/dentist/image7.jpg" />
                                     </div>
                                 </div>
                                 <div class="col-md-8">
@@ -26,9 +26,9 @@
                                         <!-- <div style="margin-bottom: 0px;"><span>Procedures by:</span></div>
                                         <br> -->
                                         <span>By: &nbsp &nbsp</span>
-                                        <img v-lazy="'img/DrBrock.jpg'" alt="..." class="avatar img-raised">
+                                        <img v-lazy="'img/dentist/DrBrock.jpg'" alt="..." class="avatar img-raised">
                                         <span>Dr. Brock &nbsp &nbsp</span>
-                                        <img v-lazy="'img/DrVanDyke.jpg'" alt="..." class="avatar img-raised">
+                                        <img v-lazy="'img/dentist/DrVanDyke.jpg'" alt="..." class="avatar img-raised">
                                         <span>Dr. Van Dyke</span>
                                     </div>
                                 </div>
@@ -38,7 +38,7 @@
                             <div class="row">
                                 <div class="col-md-4">
                                     <div class="card-image">
-                                        <img class="img img-raised rounded" src="img/examples/card-blog10.jpg" />
+                                        <img class="img img-raised rounded" src="img/dentist/image19.jpg" />
                                     </div>
                                 </div>
                                 <div class="col-md-8">
@@ -53,9 +53,9 @@
                                         <!-- <div style="margin-bottom: 0px;"><span>Procedures by:</span></div>
                                         <br> -->
                                         <span>By: &nbsp &nbsp</span>
-                                        <img v-lazy="'img/DrBrock.jpg'" alt="..." class="avatar img-raised">
+                                        <img v-lazy="'img/dentist/DrBrock.jpg'" alt="..." class="avatar img-raised">
                                         <span>Dr. Brock &nbsp &nbsp</span>
-                                        <img v-lazy="'img/DrVanDyke.jpg'" alt="..." class="avatar img-raised">
+                                        <img v-lazy="'img/dentist/DrVanDyke.jpg'" alt="..." class="avatar img-raised">
                                         <span>Dr. Van Dyke</span>
                                     </div>
                                 </div>
@@ -65,7 +65,7 @@
                             <div class="row">
                                 <div class="col-md-4">
                                     <div class="card-image">
-                                        <img class="img img-raised rounded" src="img/examples/card-blog10.jpg" />
+                                        <img class="img img-raised rounded" src="img/dentist/image4.jpg" />
                                     </div>
                                 </div>
                                 <div class="col-md-8">
@@ -80,9 +80,9 @@
                                         <!-- <div style="margin-bottom: 0px;"><span>Procedures by:</span></div>
                                         <br> -->
                                         <span>By: &nbsp &nbsp</span>
-                                        <img v-lazy="'img/DrBrock.jpg'" alt="..." class="avatar img-raised">
+                                        <img v-lazy="'img/dentist/DrBrock.jpg'" alt="..." class="avatar img-raised">
                                         <span>Dr. Brock &nbsp &nbsp</span>
-                                        <img v-lazy="'img/DrVanDyke.jpg'" alt="..." class="avatar img-raised">
+                                        <img v-lazy="'img/dentist/DrVanDyke.jpg'" alt="..." class="avatar img-raised">
                                         <span>Dr. Van Dyke</span>
                                     </div>
                                 </div>
@@ -92,7 +92,7 @@
                             <div class="row">
                                 <div class="col-md-4">
                                     <div class="card-image">
-                                        <img class="img img-raised rounded" src="img/examples/card-blog10.jpg" />
+                                        <img class="img img-raised rounded" src="img/dentist/image32.jpg" />
                                     </div>
                                 </div>
                                 <div class="col-md-8">
@@ -107,9 +107,9 @@
                                         <!-- <div style="margin-bottom: 0px;"><span>Procedures by:</span></div>
                                         <br> -->
                                         <span>By: &nbsp &nbsp</span>
-                                        <img v-lazy="'img/DrBrock.jpg'" alt="..." class="avatar img-raised">
+                                        <img v-lazy="'img/dentist/DrBrock.jpg'" alt="..." class="avatar img-raised">
                                         <span>Dr. Brock &nbsp &nbsp</span>
-                                        <img v-lazy="'img/DrVanDyke.jpg'" alt="..." class="avatar img-raised">
+                                        <img v-lazy="'img/dentist/DrVanDyke.jpg'" alt="..." class="avatar img-raised">
                                         <span>Dr. Van Dyke</span>
                                     </div>
                                 </div>
@@ -119,7 +119,7 @@
                             <div class="row">
                                 <div class="col-md-4">
                                     <div class="card-image">
-                                        <img class="img img-raised rounded" src="img/examples/card-blog10.jpg" />
+                                        <img class="img img-raised rounded" src="img/dentist/image60.jpg" />
                                     </div>
                                 </div>
                                 <div class="col-md-8">
@@ -134,10 +134,8 @@
                                         <!-- <div style="margin-bottom: 0px;"><span>Procedures by:</span></div>
                                         <br> -->
                                         <span>By: &nbsp &nbsp</span>
-                                        <img v-lazy="'img/DrBrock.jpg'" alt="..." class="avatar img-raised">
+                                        <img v-lazy="'img/dentist/DrBrock.jpg'" alt="..." class="avatar img-raised">
                                         <span>Dr. Brock &nbsp &nbsp</span>
-                                        <img v-lazy="'img/DrVanDyke.jpg'" alt="..." class="avatar img-raised">
-                                        <span>Dr. Van Dyke</span>
                                     </div>
                                 </div>
                             </div>
@@ -146,7 +144,7 @@
                             <div class="row">
                                 <div class="col-md-4">
                                     <div class="card-image">
-                                        <img class="img img-raised rounded" src="img/examples/card-blog10.jpg" />
+                                        <img class="img img-raised rounded" src="img/dentist/image56.jpg" />
                                     </div>
                                 </div>
                                 <div class="col-md-8">
@@ -161,10 +159,8 @@
                                         <!-- <div style="margin-bottom: 0px;"><span>Procedures by:</span></div>
                                         <br> -->
                                         <span>By: &nbsp &nbsp</span>
-                                        <img v-lazy="'img/DrBrock.jpg'" alt="..." class="avatar img-raised">
+                                        <img v-lazy="'img/dentist/DrBrock.jpg'" alt="..." class="avatar img-raised">
                                         <span>Dr. Brock &nbsp &nbsp</span>
-                                        <img v-lazy="'img/DrVanDyke.jpg'" alt="..." class="avatar img-raised">
-                                        <span>Dr. Van Dyke</span>
                                     </div>
                                 </div>
                             </div>
@@ -173,7 +169,7 @@
                             <div class="row">
                                 <div class="col-md-4">
                                     <div class="card-image">
-                                        <img class="img img-raised rounded" src="img/examples/card-blog10.jpg" />
+                                        <img class="img img-raised rounded" src="img/dentist/image59.jpg" />
                                     </div>
                                 </div>
                                 <div class="col-md-8">
@@ -188,9 +184,9 @@
                                         <!-- <div style="margin-bottom: 0px;"><span>Procedures by:</span></div>
                                         <br> -->
                                         <span>By: &nbsp &nbsp</span>
-                                        <img v-lazy="'img/DrBrock.jpg'" alt="..." class="avatar img-raised">
+                                        <img v-lazy="'img/dentist/DrBrock.jpg'" alt="..." class="avatar img-raised">
                                         <span>Dr. Brock &nbsp &nbsp</span>
-                                        <img v-lazy="'img/DrVanDyke.jpg'" alt="..." class="avatar img-raised">
+                                        <img v-lazy="'img/dentist/DrVanDyke.jpg'" alt="..." class="avatar img-raised">
                                         <span>Dr. Van Dyke</span>
                                     </div>
                                 </div>
@@ -200,7 +196,7 @@
                             <div class="row">
                                 <div class="col-md-4">
                                     <div class="card-image">
-                                        <img class="img img-raised rounded" src="img/examples/card-blog10.jpg" />
+                                        <img class="img img-raised rounded" src="img/dentist/image53.jpg" />
                                     </div>
                                 </div>
                                 <div class="col-md-8">
@@ -215,9 +211,9 @@
                                         <!-- <div style="margin-bottom: 0px;"><span>Procedures by:</span></div>
                                         <br> -->
                                         <span>By: &nbsp &nbsp</span>
-                                        <img v-lazy="'img/DrBrock.jpg'" alt="..." class="avatar img-raised">
+                                        <img v-lazy="'img/dentist/DrBrock.jpg'" alt="..." class="avatar img-raised">
                                         <span>Dr. Brock &nbsp &nbsp</span>
-                                        <img v-lazy="'img/DrVanDyke.jpg'" alt="..." class="avatar img-raised">
+                                        <img v-lazy="'img/dentist/DrVanDyke.jpg'" alt="..." class="avatar img-raised">
                                         <span>Dr. Van Dyke</span>
                                     </div>
                                 </div>
@@ -227,7 +223,7 @@
                             <div class="row">
                                 <div class="col-md-4">
                                     <div class="card-image">
-                                        <img class="img img-raised rounded" src="img/examples/card-blog10.jpg" />
+                                        <img class="img img-raised rounded" src="img/dentist/image57.jpg" />
                                     </div>
                                 </div>
                                 <div class="col-md-8">
@@ -242,9 +238,9 @@
                                         <!-- <div style="margin-bottom: 0px;"><span>Procedures by:</span></div>
                                         <br> -->
                                         <span>By: &nbsp &nbsp</span>
-                                        <img v-lazy="'img/DrBrock.jpg'" alt="..." class="avatar img-raised">
+                                        <img v-lazy="'img/dentist/DrBrock.jpg'" alt="..." class="avatar img-raised">
                                         <span>Dr. Brock &nbsp &nbsp</span>
-                                        <img v-lazy="'img/DrVanDyke.jpg'" alt="..." class="avatar img-raised">
+                                        <img v-lazy="'img/dentist/DrVanDyke.jpg'" alt="..." class="avatar img-raised">
                                         <span>Dr. Van Dyke</span>
                                     </div>
                                 </div>

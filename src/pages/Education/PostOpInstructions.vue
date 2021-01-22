@@ -1,8 +1,10 @@
-
-
-
-
-
+<style>
+.cover {
+  height: 236px;
+  width: 400px;
+  object-fit: cover;
+}
+</style>
 
 
 <template>
@@ -18,7 +20,7 @@
                                 <card type="blog" plain>
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/dentist/image1.jpg" />
+                                            <img class="img img-raised rounded cover" src="img/dentist/image1.jpg" />
                                         </a>
                                     </div>
                                     <div class="card-body">
@@ -32,7 +34,7 @@
                                 <card type="blog" plain>
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/dentist/image33.jpg" />
+                                            <img class="img img-raised rounded cover" src="img/dentist/image33.jpg" />
                                         </a>
                                     </div>
                                     <div class="card-body">
@@ -48,7 +50,7 @@
                                 <card type="blog" plain>
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/dentist/image19.jpg" />
+                                            <img class="img img-raised rounded cover" src="img/dentist/image19.jpg" />
                                         </a>
                                     </div>
                                     <div class="card-body">
@@ -62,7 +64,7 @@
                                 <card type="blog" plain>
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/dentist/image17.jpg" />
+                                            <img class="img img-raised rounded cover" src="img/dentist/image17.jpg" />
                                         </a>
                                     </div>
                                     <div class="card-body">
@@ -78,7 +80,7 @@
                                 <card type="blog" plain>
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/dentist/image30.jpg" />
+                                            <img class="img img-raised rounded cover" src="img/dentist/image30.jpg" />
                                         </a>
                                     </div>
                                     <div class="card-body">
@@ -92,7 +94,7 @@
                                 <card type="blog" plain>
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/dentist/image20.jpg" />
+                                            <img class="img img-raised rounded cover" src="img/dentist/image20.jpg" />
                                         </a>
                                     </div>
                                     <div class="card-body">
@@ -108,7 +110,7 @@
                                 <card type="blog" plain>
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/dentist/image13.jpg" />
+                                            <img class="img img-raised rounded cover" src="img/dentist/image13.jpg" />
                                         </a>
                                     </div>
                                     <div class="card-body">
@@ -122,7 +124,7 @@
                                 <card type="blog" plain>
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/dentist/image31.jpg" />
+                                            <img class="img img-raised rounded cover" src="img/dentist/image31.jpg" />
                                         </a>
                                     </div>
                                     <div class="card-body">
@@ -152,7 +154,4 @@
 
 
 
-<style>
 
-
-</style>

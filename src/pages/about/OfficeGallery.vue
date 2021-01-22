@@ -13,19 +13,19 @@
                     </div>
                     <div class="row">
                         <div class="col-md-4">
-                            <img class="rounded img-raised" alt="Raised Image" src="img/bg27.jpg">
+                            <img class="rounded img-raised" alt="Raised Image" src="img/dentist/image54.jpg">
                         </div>
                         <div class="col-md-4">
-                            <img class="rounded img-raised" alt="Raised Image" src="img/bg24.jpg">
+                            <img class="rounded img-raised" alt="Raised Image" src="img/dentist/image48.jpg">
                         </div>
                         <div class="col-md-4">
-                            <img class="rounded img-raised" alt="Raised Image" src="img/bg28.jpg">
+                            <img class="rounded img-raised" alt="Raised Image" src="img/dentist/image57.jpg">
                         </div>
                         <div class="col-md-6">
-                            <img class="rounded img-raised" alt="Raised Image" src="img/project6.jpg">
+                            <img class="rounded img-raised" alt="Raised Image" src="img/dentist/image63.jpg">
                         </div>
                         <div class="col-md-6">
-                            <img class="rounded img-raised" alt="Raised Image" src="img/project14.jpg">
+                            <img class="rounded img-raised" alt="Raised Image" src="img/dentist/image44.jpg">
                         </div>
                     </div>
                 </div>

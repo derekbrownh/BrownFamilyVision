@@ -6,9 +6,8 @@
                     <div class="row">
                         <div class="col-md-8 mr-auto ml-auto">
                             <h2 class="text-center title">Want to work with us?</h2>
-                            <h4 class="text-center description">Divide details about your product or agency work
-                                into parts. Write a few lines about each one and contact us about any further
-                                collaboration. We will get back to you in a couple of hours.</h4>
+                            <h4 class="text-center description">We are currently considering new candidates, please let us
+                                know why you would be a good fit for our team. We will get back to you in a couple of days.</h4>
                             <form class="contact-form">
                                 <div class="row">
                                     <div class="col-md-4">
@@ -29,9 +28,11 @@
                                         <label>Speciality</label>
                                         <fg-input>
                                             <el-select class="select-default" v-model="form.speciality">
-                                                <el-option class="select-default" value="1" label="I'm a Designer"></el-option>
-                                                <el-option class="select-default" value="2" label="I'm a Developer"></el-option>
-                                                <el-option class="select-default" value="3" label="I'm a Hero"></el-option>
+                                                <el-option class="select-default" value="1" label="I'm an Assistant"></el-option>
+                                                <el-option class="select-default" value="2" label="I'm a Hygienist"></el-option>
+                                                <el-option class="select-default" value="3" label="I have office experience"></el-option>
+                                                <el-option class="select-default" value="4" label="Other"></el-option>
+
                                             </el-select>
                                         </fg-input>
                                     </div>

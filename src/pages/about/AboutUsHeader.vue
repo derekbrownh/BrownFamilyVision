@@ -2,13 +2,13 @@
     <div class="wrapper">
         <div class="page-header page-header-small">
             <parallax class="page-header-image"
-                 style="background-image: url('img/bg32.jpg')">
+                 style="background-image: url('img/dentist/image63.jpg')">
             </parallax>
             <div class="content-center">
                 <div class="row">
                     <div class="col-md-8 ml-auto mr-auto">
                         <h1 class="title">About Us</h1>
-                        <h4>Meet the amazing team behind this project and find out more about how we work.</h4>
+                        <h4>Meet the amazing team behind our practice and find out more about how we work.</h4>
                     </div>
                 </div>
             </div>
