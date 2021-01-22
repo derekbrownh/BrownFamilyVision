@@ -18,7 +18,7 @@
                                 <card type="blog" plain>
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/examples/card-blog7.jpg" />
+                                            <img class="img img-raised rounded" src="img/dentist/image1.jpg" />
                                         </a>
                                     </div>
                                     <div class="card-body">
@@ -32,7 +32,7 @@
                                 <card type="blog" plain>
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/examples/card-blog9.jpg" />
+                                            <img class="img img-raised rounded" src="img/dentist/image33.jpg" />
                                         </a>
                                     </div>
                                     <div class="card-body">
@@ -48,7 +48,7 @@
                                 <card type="blog" plain>
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/examples/card-blog7.jpg" />
+                                            <img class="img img-raised rounded" src="img/dentist/image19.jpg" />
                                         </a>
                                     </div>
                                     <div class="card-body">
@@ -62,7 +62,7 @@
                                 <card type="blog" plain>
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/examples/card-blog9.jpg" />
+                                            <img class="img img-raised rounded" src="img/dentist/image17.jpg" />
                                         </a>
                                     </div>
                                     <div class="card-body">
@@ -78,7 +78,7 @@
                                 <card type="blog" plain>
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/examples/card-blog7.jpg" />
+                                            <img class="img img-raised rounded" src="img/dentist/image30.jpg" />
                                         </a>
                                     </div>
                                     <div class="card-body">
@@ -92,7 +92,7 @@
                                 <card type="blog" plain>
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/examples/card-blog9.jpg" />
+                                            <img class="img img-raised rounded" src="img/dentist/image20.jpg" />
                                         </a>
                                     </div>
                                     <div class="card-body">
@@ -108,7 +108,7 @@
                                 <card type="blog" plain>
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/examples/card-blog7.jpg" />
+                                            <img class="img img-raised rounded" src="img/dentist/image13.jpg" />
                                         </a>
                                     </div>
                                     <div class="card-body">
@@ -122,7 +122,7 @@
                                 <card type="blog" plain>
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/examples/card-blog9.jpg" />
+                                            <img class="img img-raised rounded" src="img/dentist/image31.jpg" />
                                         </a>
                                     </div>
                                     <div class="card-body">
