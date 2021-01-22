@@ -1,10 +1,10 @@
 module.exports = {
   pwa: {
-    name: 'Now UI Kit PRO',
-    themeColor: '#f96332',
+    name: 'Stetson Village Family Dentistry',
+    themeColor: '#3AC2CF', // #3AC2CF
     msTileColor: '#2ca8ff',
     appleMobileWebAppCapable: 'yes',
-    appleMobileWebAppStatusBarStyle: '#f96332'
+    appleMobileWebAppStatusBarStyle: '#3AC2CF'
   },
   lintOnSave: false,
   css: {
