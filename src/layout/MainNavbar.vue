@@ -10,14 +10,14 @@
                     Stetson Village Family Dentistry
                     <!-- <img src="img/dentist/logo.png" style="width: 150px;"/> -->
                 </router-link>
-                <el-popover
+                <!-- <el-popover
                         ref="popover1"
                         popper-class="popover"
                         placement="bottom"
                         width="109"
                         trigger="hover">
                     <div class="popover-body">Return Home</div>
-                </el-popover>
+                </el-popover> -->
         </template>
 
         <template slot="navbar-menu">

@@ -24,31 +24,31 @@ const router = new Router({
       path: "/education",
       name: "education",
       components: {default: Education, header: MainNavbar, footer: MainFooter},
-      props: {header: {colorOnScroll: 450}}
+      props: {header: {colorOnScroll: 10}}
     },
     {
       path: "/contact",
       name: "contact",
       components: {default: Contact, header: MainNavbar, footer: MainFooter},
-      props: {header: {colorOnScroll: 450}}
+      props: {header: {colorOnScroll: 10}}
     },
     {
       path: "/about",
       name: "about",
       components: {default: About, header: MainNavbar, footer: MainFooter},
-      props: {header: {colorOnScroll: 450}}
+      props: {header: {colorOnScroll: 10}}
     },
     {
       path: "/procedures",
       name: "procedures",
       components: {default: Procedures, header: MainNavbar, footer: MainFooter},
-      props: {header: {colorOnScroll: 450}}
+      props: {header: {colorOnScroll: 10}}
     },
     {
       path: "/home",
       name: "home",
       components: {default: NewHome, header: MainNavbar, footer: MainFooter},
-      props: {header: {colorOnScroll: 450}}
+      props: {header: {colorOnScroll: 10}}
     }
   ],
   scrollBehavior: (to, from, savedPosition) => {

@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "0ff145e6a6fb004815b5fd5b4b38c9e7",
-    "url": "/img/flags/PL.png"
+    "revision": "4a7ca1c211b5eacb89dfcc5177b2e5bd",
+    "url": "/img/flags/PT.png"
   },
   {
     "revision": "a89a3cdc8d86ac7ed95af2cc6f7617d4",
@@ -20,28 +20,28 @@ self.__precacheManifest = [
     "url": "/img/dentist/image42.jpg"
   },
   {
-    "revision": "9afa65c3b139a9e563f2af3addd74217",
-    "url": "/img/dentist/image19.jpg"
-  },
-  {
     "revision": "930bac738761b3e4198ceec2577d9b83",
     "url": "/img/dentist/image61.jpg"
   },
   {
-    "revision": "70918a35396376523833bb4cd386d12a",
-    "url": "/img/dentist/image41.jpg"
-  },
-  {
-    "revision": "d24baf62a5340e99ddb05b3b1f94c7f0",
-    "url": "/index.html"
+    "revision": "9afa65c3b139a9e563f2af3addd74217",
+    "url": "/img/dentist/image19.jpg"
   },
   {
     "revision": "c6c5564bac6d775cb4760d99ed27d247",
     "url": "/img/dentist/image2.jpg"
   },
   {
+    "revision": "3c7cf30ddcf8b0f98995692b1604554c",
+    "url": "/index.html"
+  },
+  {
     "revision": "c6c5564bac6d775cb4760d99ed27d247",
     "url": "/img/dentist/image2 copy.jpg"
+  },
+  {
+    "revision": "70918a35396376523833bb4cd386d12a",
+    "url": "/img/dentist/image41.jpg"
   },
   {
     "revision": "06a1c8db50934c7ffc502d7ae395a041",
@@ -56,10 +56,6 @@ self.__precacheManifest = [
     "url": "/img/dentist/image18.jpg"
   },
   {
-    "revision": "ec685ff95c3f283b630d484321630bf7",
-    "url": "/img/dentist/image43.jpg"
-  },
-  {
     "revision": "e504740c5c85676ba767716e944c74be",
     "url": "/img/dentistry/Masks.jpg"
   },
@@ -72,8 +68,8 @@ self.__precacheManifest = [
     "url": "/img/dentist/image6_small.jpg"
   },
   {
-    "revision": "a9a86c5661ddab1a0619424f026bbbfc",
-    "url": "/img/dentist/image60.jpg"
+    "revision": "ec685ff95c3f283b630d484321630bf7",
+    "url": "/img/dentist/image43.jpg"
   },
   {
     "revision": "8e6c2fd6eeead507c507dc31db6275c8",
@@ -84,8 +80,12 @@ self.__precacheManifest = [
     "url": "/img/examples/card-blog11.jpg"
   },
   {
-    "revision": "609bd0e3cd4708f3a4608e7b4ba574df",
-    "url": "/img/dentist/image57.jpg"
+    "revision": "a9a86c5661ddab1a0619424f026bbbfc",
+    "url": "/img/dentist/image60.jpg"
+  },
+  {
+    "revision": "262992cb5890732f370a361692f06c9f",
+    "url": "/img/examples/card-blog5.jpg"
   },
   {
     "revision": "37d24e26c935c4e1f21b1b28eb3b2b35",
@@ -100,10 +100,6 @@ self.__precacheManifest = [
     "url": "/img/flags/AE.png"
   },
   {
-    "revision": "262992cb5890732f370a361692f06c9f",
-    "url": "/img/examples/card-blog5.jpg"
-  },
-  {
     "revision": "946d0200b0384925d565f794a7572c18",
     "url": "/img/flags/AG.png"
   },
@@ -116,20 +112,16 @@ self.__precacheManifest = [
     "url": "/img/flags/AR.png"
   },
   {
-    "revision": "d5e784b788a7f18bfc3265a5b993a943",
-    "url": "/img/examples/card-project1.jpg"
+    "revision": "d740d7b7ea424b467e7372a4311b1a4e",
+    "url": "/img/flags/AT.png"
   },
   {
     "revision": "702fb8c567cd92b4f3c242abc84a8b56",
     "url": "/img/flags/AU.png"
   },
   {
-    "revision": "d740d7b7ea424b467e7372a4311b1a4e",
-    "url": "/img/flags/AT.png"
-  },
-  {
-    "revision": "7fd13a1d7e9a4f74abec70c7d6959f9c",
-    "url": "/img/examples/card-blog17.jpg"
+    "revision": "d5e784b788a7f18bfc3265a5b993a943",
+    "url": "/img/examples/card-project1.jpg"
   },
   {
     "revision": "06bf3c554058e5f0c8b6a194390f02f4",
@@ -140,44 +132,48 @@ self.__precacheManifest = [
     "url": "/img/flags/BF.png"
   },
   {
-    "revision": "3fc230ef925b83f03164614c556dd900",
-    "url": "/img/flags/BG.png"
+    "revision": "7fd13a1d7e9a4f74abec70c7d6959f9c",
+    "url": "/img/examples/card-blog17.jpg"
   },
   {
-    "revision": "504fc855b7b320a5c354fe952515178e",
-    "url": "/img/flags/BO.png"
+    "revision": "3fc230ef925b83f03164614c556dd900",
+    "url": "/img/flags/BG.png"
   },
   {
     "revision": "0a929a3f8a55e7a094af71b3b22033af",
     "url": "/img/flags/BR.png"
   },
   {
-    "revision": "9794d9cbc138f50ea68132f6f5ccf8b2",
-    "url": "/img/examples/card-blog4.jpg"
-  },
-  {
-    "revision": "0141980be6d1c4841ee2fa9f525732f6",
-    "url": "/img/examples/card-blog18.jpg"
-  },
-  {
-    "revision": "1eccef428e1109b9d83cd86115c224f6",
-    "url": "/img/examples/office1.jpg"
-  },
-  {
     "revision": "7f9948d341b02f396408a42310623a22",
     "url": "/img/flags/CA.png"
+  },
+  {
+    "revision": "504fc855b7b320a5c354fe952515178e",
+    "url": "/img/flags/BO.png"
+  },
+  {
+    "revision": "ee85c80761aaa83cd24d10642a47615b",
+    "url": "/img/flags/CD.png"
+  },
+  {
+    "revision": "9794d9cbc138f50ea68132f6f5ccf8b2",
+    "url": "/img/examples/card-blog4.jpg"
   },
   {
     "revision": "77d5afad8cbe8d299b400c532c3bc2a5",
     "url": "/img/flags/CG.png"
   },
   {
-    "revision": "499768194edcb526546efebd811d2117",
-    "url": "/img/flags/CH.png"
+    "revision": "1eccef428e1109b9d83cd86115c224f6",
+    "url": "/img/examples/office1.jpg"
   },
   {
-    "revision": "ee85c80761aaa83cd24d10642a47615b",
-    "url": "/img/flags/CD.png"
+    "revision": "0141980be6d1c4841ee2fa9f525732f6",
+    "url": "/img/examples/card-blog18.jpg"
+  },
+  {
+    "revision": "499768194edcb526546efebd811d2117",
+    "url": "/img/flags/CH.png"
   },
   {
     "revision": "cfc6b69796258e631bf05c642bb0fc66",
@@ -186,10 +182,6 @@ self.__precacheManifest = [
   {
     "revision": "29d3b491e7a899726ff1fc6ea0abc605",
     "url": "/img/flags/CM.png"
-  },
-  {
-    "revision": "a42f4c3370b931169c42b2e950529b5a",
-    "url": "/img/examples/card-blog10.jpg"
   },
   {
     "revision": "33325b9112ddd6a58621a592930b69e7",
@@ -204,12 +196,20 @@ self.__precacheManifest = [
     "url": "/img/flags/CZ.png"
   },
   {
-    "revision": "61438ef2074d56c5da3f9a2ce0a88d77",
-    "url": "/img/examples/card-blog15.jpg"
+    "revision": "861059787bace2d7e1fef50f4d649570",
+    "url": "/img/examples/card-blog6.jpg"
   },
   {
     "revision": "64ababf7de758dcee0358c2c4d93a371",
     "url": "/img/flags/DE.png"
+  },
+  {
+    "revision": "a42f4c3370b931169c42b2e950529b5a",
+    "url": "/img/examples/card-blog10.jpg"
+  },
+  {
+    "revision": "61438ef2074d56c5da3f9a2ce0a88d77",
+    "url": "/img/examples/card-blog15.jpg"
   },
   {
     "revision": "c5f10dde52377195a6f168c0b08a4366",
@@ -224,8 +224,8 @@ self.__precacheManifest = [
     "url": "/img/flags/DZ.png"
   },
   {
-    "revision": "861059787bace2d7e1fef50f4d649570",
-    "url": "/img/examples/card-blog6.jpg"
+    "revision": "102002f8c93f9b6c42c7fe66b3b6a76a",
+    "url": "/img/flags/EE.png"
   },
   {
     "revision": "bdd9e0c833e009930d41ae5566f5d26f",
@@ -236,32 +236,16 @@ self.__precacheManifest = [
     "url": "/img/flags/ES.png"
   },
   {
-    "revision": "e4e2074c56a134e3b471b53b7ad42800",
-    "url": "/img/flags/FI.png"
-  },
-  {
-    "revision": "102002f8c93f9b6c42c7fe66b3b6a76a",
-    "url": "/img/flags/EE.png"
-  },
-  {
-    "revision": "fa6307e65ae6f26b966b6a3c131582fb",
-    "url": "/img/examples/card-profile3.jpg"
-  },
-  {
-    "revision": "9475844803608c51bfb44b573c1e2a91",
-    "url": "/img/examples/card-blog7.jpg"
-  },
-  {
     "revision": "595fab5dcc858350b9212b794579f1d4",
     "url": "/img/flags/FR.png"
   },
   {
-    "revision": "48743f21b6d85d4b66ebf8ee96d5db36",
-    "url": "/img/flags/GA.png"
+    "revision": "e4e2074c56a134e3b471b53b7ad42800",
+    "url": "/img/flags/FI.png"
   },
   {
-    "revision": "4778f258f9a25c7e514db5421145b2f9",
-    "url": "/img/flags/GT.png"
+    "revision": "48743f21b6d85d4b66ebf8ee96d5db36",
+    "url": "/img/flags/GA.png"
   },
   {
     "revision": "b0d54b4089ce5e24c82574109f346289",
@@ -272,12 +256,24 @@ self.__precacheManifest = [
     "url": "/img/flags/GM.png"
   },
   {
+    "revision": "4778f258f9a25c7e514db5421145b2f9",
+    "url": "/img/flags/GT.png"
+  },
+  {
     "revision": "3a3cec6d768674435c49aef16c87bf3a",
     "url": "/img/flags/HN.png"
   },
   {
     "revision": "c0673ba8fa5c7043582c1efede6ef665",
     "url": "/img/flags/HT.png"
+  },
+  {
+    "revision": "fa6307e65ae6f26b966b6a3c131582fb",
+    "url": "/img/examples/card-profile3.jpg"
+  },
+  {
+    "revision": "9475844803608c51bfb44b573c1e2a91",
+    "url": "/img/examples/card-blog7.jpg"
   },
   {
     "revision": "4660e392d5c78467928a5246600091ac",
@@ -296,6 +292,18 @@ self.__precacheManifest = [
     "url": "/img/flags/IL.png"
   },
   {
+    "revision": "0c97a4f2d4564b44b9de7684fcd8af18",
+    "url": "/img/flags/IN.png"
+  },
+  {
+    "revision": "3a006f96c210b7936911904a05b4fb73",
+    "url": "/img/flags/IQ.png"
+  },
+  {
+    "revision": "2bbfb21840cd2c0a254cd53d88f42967",
+    "url": "/img/flags/IR.png"
+  },
+  {
     "revision": "e9c6f9ffefcf4df8320aefeea93704d3",
     "url": "/img/examples/card-blog12.jpg"
   },
@@ -304,20 +312,8 @@ self.__precacheManifest = [
     "url": "/img/examples/card-blog16.jpg"
   },
   {
-    "revision": "3a006f96c210b7936911904a05b4fb73",
-    "url": "/img/flags/IQ.png"
-  },
-  {
-    "revision": "0c97a4f2d4564b44b9de7684fcd8af18",
-    "url": "/img/flags/IN.png"
-  },
-  {
     "revision": "48a59d634410d15d82dcb88f7cebc508",
     "url": "/img/flags/IT.png"
-  },
-  {
-    "revision": "2bbfb21840cd2c0a254cd53d88f42967",
-    "url": "/img/flags/IR.png"
   },
   {
     "revision": "0eadd5760094da2bbf33a8115f89e37d",
@@ -332,10 +328,6 @@ self.__precacheManifest = [
     "url": "/img/flags/JP.png"
   },
   {
-    "revision": "260058586c3200d5b3e1a98b83e2ca45",
-    "url": "/img/flags/KG.png"
-  },
-  {
     "revision": "4278bb9fcc5623cc628b347e71b500e0",
     "url": "/img/flags/KN.png"
   },
@@ -344,16 +336,16 @@ self.__precacheManifest = [
     "url": "/img/flags/KP.png"
   },
   {
+    "revision": "260058586c3200d5b3e1a98b83e2ca45",
+    "url": "/img/flags/KG.png"
+  },
+  {
     "revision": "5d0d776b1bb248e35f88b2dc257e5b5f",
     "url": "/img/flags/KR.png"
   },
   {
     "revision": "6caa4301b592f93b983fe888d5c9ad07",
     "url": "/img/flags/KW.png"
-  },
-  {
-    "revision": "622cccec83b304b85548f258b458f3a8",
-    "url": "/img/examples/card-profile1.jpg"
   },
   {
     "revision": "af4bd6986ebb32717beb18b31b50bd39",
@@ -376,20 +368,24 @@ self.__precacheManifest = [
     "url": "/img/flags/LS.png"
   },
   {
-    "revision": "90b5b2e5665f6f82ce620afbaae0ed7a",
-    "url": "/img/examples/card-profile2.jpg"
+    "revision": "622cccec83b304b85548f258b458f3a8",
+    "url": "/img/examples/card-profile1.jpg"
   },
   {
     "revision": "2bc84ce5ad68db19ace5119420fdba35",
     "url": "/img/flags/LU.png"
   },
   {
+    "revision": "5fb045380f7ad3487409ce2af10728b6",
+    "url": "/img/flags/LV.png"
+  },
+  {
     "revision": "edfa2dfdb2551052767acd7938374baa",
     "url": "/img/flags/MG.png"
   },
   {
-    "revision": "5fb045380f7ad3487409ce2af10728b6",
-    "url": "/img/flags/LV.png"
+    "revision": "90b5b2e5665f6f82ce620afbaae0ed7a",
+    "url": "/img/examples/card-profile2.jpg"
   },
   {
     "revision": "ff6c3c5c5fea9b4adb2bd8deb9c4d722",
@@ -436,10 +432,6 @@ self.__precacheManifest = [
     "url": "/img/flags/NO.png"
   },
   {
-    "revision": "815a97fbbf0e3bb6f9306f179f7d6198",
-    "url": "/img/examples/card-blog13.jpg"
-  },
-  {
     "revision": "c5be07ce4951f687e1586a6ce58a9947",
     "url": "/img/flags/OM.png"
   },
@@ -452,20 +444,24 @@ self.__precacheManifest = [
     "url": "/img/flags/PE.png"
   },
   {
-    "revision": "c9dc1209804a2d10a8b43517536c4f0a",
-    "url": "/img/flags/PK.png"
-  },
-  {
     "revision": "6a7da3edcf795455a04f5e66f763103c",
     "url": "/img/flags/PG.png"
   },
   {
-    "revision": "882548da6e242ed0070e",
-    "url": "/js/app.fe4ee74f.js"
+    "revision": "c9dc1209804a2d10a8b43517536c4f0a",
+    "url": "/img/flags/PK.png"
   },
   {
-    "revision": "4a7ca1c211b5eacb89dfcc5177b2e5bd",
-    "url": "/img/flags/PT.png"
+    "revision": "0ff145e6a6fb004815b5fd5b4b38c9e7",
+    "url": "/img/flags/PL.png"
+  },
+  {
+    "revision": "815a97fbbf0e3bb6f9306f179f7d6198",
+    "url": "/img/examples/card-blog13.jpg"
+  },
+  {
+    "revision": "badc471563bf752f7c6f",
+    "url": "/js/app.dd064ebe.js"
   },
   {
     "revision": "16427f482c975426213129d5d01f230c",
@@ -492,12 +488,12 @@ self.__precacheManifest = [
     "url": "/img/flags/SA.png"
   },
   {
-    "revision": "fb037b6ecfa504e502ba1e28987078bd",
-    "url": "/img/examples/card-blog9.jpg"
-  },
-  {
     "revision": "2216335387c0d5f0cbba3c44e8b18da0",
     "url": "/img/flags/SE.png"
+  },
+  {
+    "revision": "fb037b6ecfa504e502ba1e28987078bd",
+    "url": "/img/examples/card-blog9.jpg"
   },
   {
     "revision": "df781933a34b8ed37bf6b501993d0850",
@@ -532,28 +528,28 @@ self.__precacheManifest = [
     "url": "/img/flags/TL.png"
   },
   {
-    "revision": "2563cd341decc23d4eff441c0519fb99",
-    "url": "/img/flags/TZ.png"
+    "revision": "609bd0e3cd4708f3a4608e7b4ba574df",
+    "url": "/img/dentist/image57.jpg"
   },
   {
     "revision": "a77c8d32dfb99227583c9030f53a6def",
     "url": "/img/flags/TR.png"
   },
   {
+    "revision": "2563cd341decc23d4eff441c0519fb99",
+    "url": "/img/flags/TZ.png"
+  },
+  {
     "revision": "1fece065bc3d5c093e323fbf6c33ddf8",
     "url": "/img/flags/UA.png"
   },
   {
-    "revision": "ec0b03b1096181f065e1b5afa1294a9b",
-    "url": "/img/dentist/image49.jpg"
+    "revision": "2f88ea36fc94779a8f2e65c2ee8ccc76",
+    "url": "/img/flags/US.png"
   },
   {
     "revision": "f1002d4b065c608c320fa4a3e45c8678",
     "url": "/img/flags/VE.png"
-  },
-  {
-    "revision": "2f88ea36fc94779a8f2e65c2ee8ccc76",
-    "url": "/img/flags/US.png"
   },
   {
     "revision": "f9d81765bb971419c49a7f9993d22d26",
@@ -566,6 +562,10 @@ self.__precacheManifest = [
   {
     "revision": "ec0b03b1096181f065e1b5afa1294a9b",
     "url": "/img/dentist/image48.jpg"
+  },
+  {
+    "revision": "f671466760128ddf9390e617c1dc62a9",
+    "url": "/logo.png"
   },
   {
     "revision": "2db3666630d40823c2c77b2775b52f5e",
@@ -620,8 +620,8 @@ self.__precacheManifest = [
     "url": "/img/dentist/image68.jpg"
   },
   {
-    "revision": "bc30f19dcc3518784b990a8860c4f152",
-    "url": "/img/dentist/image20.jpg"
+    "revision": "ec0b03b1096181f065e1b5afa1294a9b",
+    "url": "/img/dentist/image49.jpg"
   },
   {
     "revision": "6fc5996998ecb4212730970bf6b9a540",
@@ -644,8 +644,8 @@ self.__precacheManifest = [
     "url": "/img/dentist/image7.jpg"
   },
   {
-    "revision": "09bbd9ccbdffc47374d4eeb675bd74c9",
-    "url": "/img/dentist/image27.jpg"
+    "revision": "bc30f19dcc3518784b990a8860c4f152",
+    "url": "/img/dentist/image20.jpg"
   },
   {
     "revision": "40d6242bb99ee35dce4f290023136d4f",
@@ -664,24 +664,24 @@ self.__precacheManifest = [
     "url": "/img/dentist/image51.jpg"
   },
   {
-    "revision": "8761007f97d173068bf0d1ff76c32841",
-    "url": "/img/dentist/image5.jpg"
-  },
-  {
     "revision": "d6f39fb81011d54cf25ec6cd02443ab1",
     "url": "/img/dentistry/ToothbrushInCup.jpg"
+  },
+  {
+    "revision": "8761007f97d173068bf0d1ff76c32841",
+    "url": "/img/dentist/image5.jpg"
   },
   {
     "revision": "7668686c8af1dbf831070d5421a68497",
     "url": "/img/dentist/image38.jpg"
   },
   {
-    "revision": "1be3d1c4241674cffedfca1220259812",
-    "url": "/img/dentist/image3.jpg"
+    "revision": "09bbd9ccbdffc47374d4eeb675bd74c9",
+    "url": "/img/dentist/image27.jpg"
   },
   {
-    "revision": "e57708fc3ff9719cc8fd03776eb54f0c",
-    "url": "/img/dentistry/PatientInChairNoDoctor.jpg"
+    "revision": "1be3d1c4241674cffedfca1220259812",
+    "url": "/img/dentist/image3.jpg"
   },
   {
     "revision": "d4339d544ef28d3df29a33ab142f79b0",
@@ -708,24 +708,24 @@ self.__precacheManifest = [
     "url": "/img/dentist/image16.jpg"
   },
   {
-    "revision": "849ca63df2b101680d482c738d71a26a",
-    "url": "/img/dentist/image35.jpg"
-  },
-  {
-    "revision": "5dedf704ef3878f9dcbfdbb81115d1d7",
-    "url": "/img/dentist/image13.jpg"
-  },
-  {
-    "revision": "2a906d59e27be4348e06f2f4cabbcc32",
-    "url": "/img/dentist/image66.jpg"
-  },
-  {
     "revision": "13a0d70e7c80f5581fac22b260904614",
     "url": "/img/dentist/image46.jpg"
   },
   {
     "revision": "13a0d70e7c80f5581fac22b260904614",
     "url": "/img/dentist/image65.jpg"
+  },
+  {
+    "revision": "849ca63df2b101680d482c738d71a26a",
+    "url": "/img/dentist/image35.jpg"
+  },
+  {
+    "revision": "2a906d59e27be4348e06f2f4cabbcc32",
+    "url": "/img/dentist/image66.jpg"
+  },
+  {
+    "revision": "5dedf704ef3878f9dcbfdbb81115d1d7",
+    "url": "/img/dentist/image13.jpg"
   },
   {
     "revision": "d9f98f064d1cb74635b7922ead337505",
@@ -760,12 +760,12 @@ self.__precacheManifest = [
     "url": "/img/dentist/image64.jpg"
   },
   {
-    "revision": "211f582c09c658396b6c74c7360fd2a0",
-    "url": "/img/dentist/image53.jpg"
-  },
-  {
     "revision": "3de8c9c995e70f9f73fbca240431fdb4",
     "url": "/img/dentist/image32.jpg"
+  },
+  {
+    "revision": "211f582c09c658396b6c74c7360fd2a0",
+    "url": "/img/dentist/image53.jpg"
   },
   {
     "revision": "4a724f3630d0c05b3a429403bba521f1",
@@ -812,12 +812,12 @@ self.__precacheManifest = [
     "url": "/img/dentist/image34.jpg"
   },
   {
-    "revision": "082115e714b58f73f86f0f0787953d2e",
-    "url": "/img/dentist/image33.jpg"
-  },
-  {
     "revision": "42d54bef6cffdfacb17f43dadb9de717",
     "url": "/img/dentist/image21.jpg"
+  },
+  {
+    "revision": "082115e714b58f73f86f0f0787953d2e",
+    "url": "/img/dentist/image33.jpg"
   },
   {
     "revision": "371e1f8e5ac4bd485492455d5af900f7",
@@ -840,12 +840,16 @@ self.__precacheManifest = [
     "url": "/img/dentist/image56.jpg"
   },
   {
+    "revision": "e57708fc3ff9719cc8fd03776eb54f0c",
+    "url": "/img/dentistry/PatientInChairNoDoctor.jpg"
+  },
+  {
     "revision": "0a69c0f6c5fd22cb53370c84b1e7c575",
     "url": "/img/dentistry/TeethHeldOpen.jpg"
   },
   {
-    "revision": "722c9579fb69a7ced8db1ac584c2413e",
-    "url": "/img/dentist/DrBrock.jpg"
+    "revision": "0d454a050da49c43f2a9cb2f08983b60",
+    "url": "/img/dentist/DrVanDyke.jpg"
   },
   {
     "revision": "0c40349b2670c5bc7cd73d54ee4970ed",
@@ -860,8 +864,8 @@ self.__precacheManifest = [
     "url": "/img/dentist/DrBrock_2.jpeg"
   },
   {
-    "revision": "882548da6e242ed0070e",
-    "url": "/css/app.a6174315.css"
+    "revision": "badc471563bf752f7c6f",
+    "url": "/css/app.2774b6de.css"
   },
   {
     "revision": "df74bbbd25c669659b56250f1c207dc0",
@@ -880,12 +884,12 @@ self.__precacheManifest = [
     "url": "/img/dentist/Dr_3.jpg"
   },
   {
-    "revision": "0d454a050da49c43f2a9cb2f08983b60",
-    "url": "/img/dentist/DrVanDyke.jpg"
-  },
-  {
     "revision": "1dbb37bd690596983e6db53eeabb10cf",
     "url": "/img/dentist/Dr_1.png"
+  },
+  {
+    "revision": "722c9579fb69a7ced8db1ac584c2413e",
+    "url": "/img/dentist/DrBrock.jpg"
   },
   {
     "revision": "2ecd7b31416eec0eea41",
@@ -894,10 +898,6 @@ self.__precacheManifest = [
   {
     "revision": "f8624a716c4efc245ad1550c657b5f98",
     "url": "/img/apple-icon.png"
-  },
-  {
-    "revision": "996d8248f580f8e26e6c45c67da9b5a6",
-    "url": "/favicon.png"
   },
   {
     "revision": "c94311f1a6bac7c8da75cfa081a63e6c",
@@ -920,7 +920,7 @@ self.__precacheManifest = [
     "url": "/Json/template.json"
   },
   {
-    "revision": "f9d6d64302cd73a2f226be345767117f",
+    "revision": "9e01fb6392e7891ae53cce79f1828f8f",
     "url": "/Json/data.json"
   }
 ];

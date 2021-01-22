@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.56a050d7f3d9ac6a1b2ac57f4343b9f7.js"
+  "/precache-manifest.482ebb910ec8e8fbc424a2d5f0f42477.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-now-ui-kit-pro"});
