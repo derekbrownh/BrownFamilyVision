@@ -7,8 +7,8 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-8 ml-auto mr-auto text-center">
-                                <h1  class="title"> {{myJson.CompanyName}} </h1>
-                                <h5 class="description">{{myJson.WelcomeMessage}}</h5>
+                                <h1  class="title"> {{masterData.CompanyName}} </h1>
+                                <h5 class="description">{{masterData.WelcomeMessage}}</h5>
                             </div>
                             <div class="col-md-10 ml-auto mr-auto">
                                 <div class="card card-raised card-form-horizontal card-plain" data-background-color>
@@ -47,7 +47,7 @@
 
     data(){
         return{
-            myJson: json
+            masterData: json
         }
     },
 
