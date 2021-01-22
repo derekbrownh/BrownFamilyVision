@@ -2,10 +2,11 @@ import Vue from "vue";
 import Router from "vue-router";
 import MainNavbar from "./layout/MainNavbar.vue";
 import MainFooter from "./layout/MainFooter.vue";
-
 import NewHome from "./pages/NewHome.vue";
 import About from "./pages/AboutUs.vue";
 import Education from "./pages/Education.vue";
+import Procedures from "./pages/Procedures.vue";
+
 
 
 
@@ -27,6 +28,12 @@ const router = new Router({
       path: "/about",
       name: "about",
       components: {default: About, header: MainNavbar, footer: MainFooter},
+      props: {header: {colorOnScroll: 450}}
+    },
+    {
+      path: "/procedures",
+      name: "procedures",
+      components: {default: Procedures, header: MainNavbar, footer: MainFooter},
       props: {header: {colorOnScroll: 450}}
     },
     {

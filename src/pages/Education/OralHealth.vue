@@ -1,3 +1,17 @@
+<style>
+
+/* .cover {
+  height: 236px;
+  width: 400px;
+  object-fit: cover;
+} */
+
+
+
+</style>
+
+
+
 <template>
     <div class="cd-section" id="blogs" >
         <!--     *********     BLOGS 2      *********      -->
@@ -11,8 +25,8 @@
                                 <card type="blog" plain>
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/examples/card-blog7.jpg" />
-                                        </a>
+                                            <img class="img img-raised rounded " src="img/dentist/image6_small.jpg"  />
+                                        </a> <!--   img/dentist/image.jpg -->
                                     </div>
                                     <div class="card-body">
                                         <h5 class="card-title">
@@ -25,7 +39,7 @@
                                 <card type="blog" plain>
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/examples/card-blog9.jpg" />
+                                            <img class="img img-raised rounded" src="img/dentist/image29.jpg" />
                                         </a>
                                     </div>
                                     <div class="card-body">
@@ -41,7 +55,7 @@
                                 <card type="blog" plain>
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/examples/card-blog16.jpg" />
+                                            <img class="img img-raised rounded" src="img/dentist/image23.jpg" />
                                         </a>
                                     </div>
                                     <div class="card-body">
@@ -55,7 +69,7 @@
                                 <card type="blog" plain>
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/examples/card-blog15.jpg" />
+                                            <img class="img img-raised rounded " src="img/dentist/image11.jpg" />
                                         </a>
                                     </div>
                                     <div class="card-body">
@@ -71,7 +85,7 @@
                                 <card type="blog" plain>
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/examples/card-blog7.jpg" />
+                                            <img class="img img-raised rounded " src="img/dentist/image2.jpg" />
                                         </a>
                                     </div>
                                     <div class="card-body">
@@ -85,42 +99,12 @@
                                 <card type="blog" plain>
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/examples/card-blog9.jpg" />
+                                            <img class="img img-raised rounded " src="img/dentist/image9.jpg" />
                                         </a>
                                     </div>
                                     <div class="card-body">
                                         <h5 class="card-title">
                                             <a href="#pablo">Fluoride & Decay Prevention</a>
-                                        </h5>
-                                    </div>
-                                </card>
-                            </div>
-                        </div>
-                        <div class="row justify-content-center">
-                            <div class="col-md-5">
-                                <card type="blog" plain>
-                                    <div class="card-image">
-                                        <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/examples/card-blog7.jpg" />
-                                        </a>
-                                    </div>
-                                    <div class="card-body">
-                                        <h5 class="card-title">
-                                            <a href="#pablo">FAQ's and Links</a>
-                                        </h5>
-                                    </div>
-                                </card>
-                            </div>
-                            <div class="col-md-5">
-                                <card type="blog" plain>
-                                    <div class="card-image">
-                                        <a href="#pablo">
-                                            <img class="img img-raised rounded" src="img/examples/card-blog9.jpg" />
-                                        </a>
-                                    </div>
-                                    <div class="card-body">
-                                        <h5 class="card-title">
-                                            <a href="#pablo">Post-op Instructions</a>
                                         </h5>
                                     </div>
                                 </card>
@@ -145,7 +129,3 @@
 
 
 
-<style>
-
-
-</style>
