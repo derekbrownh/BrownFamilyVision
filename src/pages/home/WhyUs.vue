@@ -24,7 +24,7 @@
                             <div class="icon icon-success">
                                 <i class="now-ui-icons education_hat"></i>
                             </div>
-                            <h4 class="info-title">Extremely Qualified Professionals</h4>
+                            <h4 class="info-title">Qualified Professionals</h4>
                             <p class="description">Dr. Brock and the rest of our staff are some of Arizona's elite Dentists. Through continued education and an innovative mindset, you will recieve the best care.</p>
                         </div>
                     </div>
