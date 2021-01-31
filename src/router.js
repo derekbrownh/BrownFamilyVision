@@ -7,6 +7,7 @@ import About from "./pages/AboutUs.vue";
 import Education from "./pages/Education.vue";
 import Procedures from "./pages/Procedures.vue";
 import Contact from "./pages/Contact.vue";
+import Sioy from "./pages/SIOY.vue";
 
 
 
@@ -19,6 +20,11 @@ const router = new Router({
     {
       path: "/",
       redirect: "/home"
+    },
+    {
+      path: "/sioy",
+      name: "sioy",
+      components: {default: Sioy}
     },
     {
       path: "/education",
