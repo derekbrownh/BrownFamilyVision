@@ -8,7 +8,6 @@
                 <div class="row">
                     <div class="col-md-8 ml-auto mr-auto">
                         <h1 class="title">The Procedures We Offer</h1>
-                        <h4>Doctors listed below are the doctors who will perform those specific procedures.</h4>
                     </div>
                 </div>
             </div>

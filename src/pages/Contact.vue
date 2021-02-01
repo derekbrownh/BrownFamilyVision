@@ -52,21 +52,21 @@
                             <info-section type="primary"
                                       icon="now-ui-icons location_pin">
                             <h4 class="info-title">Find us at the office</h4>
-                            <p class="description"> 3870 W. Happy Valley #154
-                                <br> Glendale, AZ 85310
+                            <p class="description"> 622 W.North St.  
+                              <br> Grangeville, ID 83530
                             </p>
                         </info-section>
                         <info-section type="primary"
                                       icon="now-ui-icons tech_mobile">
                             <h4 class="info-title">Give us a ring</h4>
-                            <p class="description"> +1 (623) 533-4895
+                            <p class="description">+1 (208) 983-2020 
                             </p>
                         </info-section>
                         <info-section type="primary"
                                       icon="now-ui-icons ui-1_calendar-60">
                             <h4 class="info-title">Our Hours</h4>
-                            <p class="description">Mon - Wed, 8:00am - 7:00pm
-                                <br> Thurs - Fri, 8:00am - 4:00pm
+                            <p class="description">Mon - Thurs, 8:00am - 5:00pm
+                                <br>Fri, 8:00am - 12:00pm
                             </p>
                         </info-section>
                         </div>

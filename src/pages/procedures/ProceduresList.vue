@@ -5,7 +5,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-10 ml-auto mr-auto">
-                        <!-- <h2 class="title">Our Procedures</h2>
+                        <!-- <h2 class="title">Our Procedures        foreign bodies, treat eye infection, flashes and floaters, treat glaucoma and co-manage eye surgeries. </h2>
                         <br /> -->
                         <card type="blog" plain>
                             <div class="row">
@@ -16,7 +16,7 @@
                                 </div>
                                 <div class="col-md-8">
                                     <h3 class="card-title">
-                                        <a href="#pablo">Smile Gallery</a>
+                                        <a href="#pablo">Eye Care</a>
                                     </h3>
                                     <p class="card-description">
                                         Crowns, Cosmetic Bonding, Tooth Colored Fillings...
@@ -25,11 +25,9 @@
                                     <div class="author">
                                         <!-- <div style="margin-bottom: 0px;"><span>Procedures by:</span></div>
                                         <br> -->
-                                        <span>By: &nbsp &nbsp</span>
-                                        <img v-lazy="'img/dentist/DrBrock.jpg'" alt="..." class="avatar img-raised">
-                                        <span>Dr. Brock &nbsp &nbsp</span>
-                                        <img v-lazy="'img/dentist/DrVanDyke.jpg'" alt="..." class="avatar img-raised">
-                                        <span>Dr. Van Dyke</span>
+                                        <span>&nbsp &nbsp</span>
+                                        <img v-lazy="'img/BFV/DocBrownHeadshot.jpg'" alt="..." class="avatar img-raised">
+                                        <span>Dr. Brown &nbsp &nbsp</span>
                                     </div>
                                 </div>
                             </div>
@@ -43,7 +41,7 @@
                                 </div>
                                 <div class="col-md-8">
                                     <h3 class="card-title">
-                                        <a href="#pablo">Crown and Bridges</a>
+                                        <a href="#pablo">Contact Lense Exams</a>
                                     </h3>
                                     <p class="card-description">
                                         PUTHERE...
@@ -52,11 +50,9 @@
                                     <div class="author">
                                         <!-- <div style="margin-bottom: 0px;"><span>Procedures by:</span></div>
                                         <br> -->
-                                        <span>By: &nbsp &nbsp</span>
-                                        <img v-lazy="'img/dentist/DrBrock.jpg'" alt="..." class="avatar img-raised">
-                                        <span>Dr. Brock &nbsp &nbsp</span>
-                                        <img v-lazy="'img/dentist/DrVanDyke.jpg'" alt="..." class="avatar img-raised">
-                                        <span>Dr. Van Dyke</span>
+                                        <span>&nbsp &nbsp</span>
+                                        <img v-lazy="'img/BFV/DocBrownHeadshot.jpg'" alt="..." class="avatar img-raised">
+                                        <span>Dr. Brown &nbsp &nbsp</span>
                                     </div>
                                 </div>
                             </div>
@@ -70,7 +66,7 @@
                                 </div>
                                 <div class="col-md-8">
                                     <h3 class="card-title">
-                                        <a href="#pablo">Teeth Whitening</a>
+                                        <a href="#pablo">Comprehensive Medical Eye Exams</a>
                                     </h3>
                                     <p class="card-description">
                                         PUTHERE...
@@ -79,11 +75,9 @@
                                     <div class="author">
                                         <!-- <div style="margin-bottom: 0px;"><span>Procedures by:</span></div>
                                         <br> -->
-                                        <span>By: &nbsp &nbsp</span>
-                                        <img v-lazy="'img/dentist/DrBrock.jpg'" alt="..." class="avatar img-raised">
-                                        <span>Dr. Brock &nbsp &nbsp</span>
-                                        <img v-lazy="'img/dentist/DrVanDyke.jpg'" alt="..." class="avatar img-raised">
-                                        <span>Dr. Van Dyke</span>
+                                        <span>&nbsp &nbsp</span>
+                                        <img v-lazy="'img/BFV/DocBrownHeadshot.jpg'" alt="..." class="avatar img-raised">
+                                        <span>Dr. Brown &nbsp &nbsp</span>
                                     </div>
                                 </div>
                             </div>
@@ -97,7 +91,7 @@
                                 </div>
                                 <div class="col-md-8">
                                     <h3 class="card-title">
-                                        <a href="#pablo">Tooth-Colored Fillings</a>
+                                        <a href="#pablo">Diabetic Eye Exams</a>
                                     </h3>
                                     <p class="card-description">
                                         PUTHERE...
@@ -106,11 +100,9 @@
                                     <div class="author">
                                         <!-- <div style="margin-bottom: 0px;"><span>Procedures by:</span></div>
                                         <br> -->
-                                        <span>By: &nbsp &nbsp</span>
-                                        <img v-lazy="'img/dentist/DrBrock.jpg'" alt="..." class="avatar img-raised">
-                                        <span>Dr. Brock &nbsp &nbsp</span>
-                                        <img v-lazy="'img/dentist/DrVanDyke.jpg'" alt="..." class="avatar img-raised">
-                                        <span>Dr. Van Dyke</span>
+                                        <span>&nbsp &nbsp</span>
+                                        <img v-lazy="'img/BFV/DocBrownHeadshot.jpg'" alt="..." class="avatar img-raised">
+                                        <span>Dr. Brown &nbsp &nbsp</span>
                                     </div>
                                 </div>
                             </div>
@@ -124,7 +116,7 @@
                                 </div>
                                 <div class="col-md-8">
                                     <h3 class="card-title">
-                                        <a href="#pablo">Veneers & Laminates</a>
+                                        <a href="#pablo">Children’s Eye Exams</a>
                                     </h3>
                                     <p class="card-description">
                                         PUTHERE...
@@ -133,9 +125,9 @@
                                     <div class="author">
                                         <!-- <div style="margin-bottom: 0px;"><span>Procedures by:</span></div>
                                         <br> -->
-                                        <span>By: &nbsp &nbsp</span>
-                                        <img v-lazy="'img/dentist/DrBrock.jpg'" alt="..." class="avatar img-raised">
-                                        <span>Dr. Brock &nbsp &nbsp</span>
+                                        <span>&nbsp &nbsp</span>
+                                        <img v-lazy="'img/BFV/DocBrownHeadshot.jpg'" alt="..." class="avatar img-raised">
+                                        <span>Dr. Brown &nbsp &nbsp</span>
                                     </div>
                                 </div>
                             </div>
@@ -149,7 +141,7 @@
                                 </div>
                                 <div class="col-md-8">
                                     <h3 class="card-title">
-                                        <a href="#pablo">Root Canal Treatment</a>
+                                        <a href="#pablo">Emergency Eye Care (Including Foreign Body Removal and Infections)</a>
                                     </h3>
                                     <p class="card-description">
                                         PUTHERE...
@@ -158,9 +150,9 @@
                                     <div class="author">
                                         <!-- <div style="margin-bottom: 0px;"><span>Procedures by:</span></div>
                                         <br> -->
-                                        <span>By: &nbsp &nbsp</span>
-                                        <img v-lazy="'img/dentist/DrBrock.jpg'" alt="..." class="avatar img-raised">
-                                        <span>Dr. Brock &nbsp &nbsp</span>
+                                        <span>&nbsp &nbsp</span>
+                                        <img v-lazy="'img/BFV/DocBrownHeadshot.jpg'" alt="..." class="avatar img-raised">
+                                        <span>Dr. Brown &nbsp &nbsp</span>
                                     </div>
                                 </div>
                             </div>
@@ -174,7 +166,7 @@
                                 </div>
                                 <div class="col-md-8">
                                     <h3 class="card-title">
-                                        <a href="#pablo">Inlays & Onlays</a>
+                                        <a href="#pablo">Dry Eye</a>
                                     </h3>
                                     <p class="card-description">
                                         PUTHERE...
@@ -183,11 +175,9 @@
                                     <div class="author">
                                         <!-- <div style="margin-bottom: 0px;"><span>Procedures by:</span></div>
                                         <br> -->
-                                        <span>By: &nbsp &nbsp</span>
-                                        <img v-lazy="'img/dentist/DrBrock.jpg'" alt="..." class="avatar img-raised">
-                                        <span>Dr. Brock &nbsp &nbsp</span>
-                                        <img v-lazy="'img/dentist/DrVanDyke.jpg'" alt="..." class="avatar img-raised">
-                                        <span>Dr. Van Dyke</span>
+                                        <span>&nbsp &nbsp</span>
+                                        <img v-lazy="'img/BFV/DocBrownHeadshot.jpg'" alt="..." class="avatar img-raised">
+                                        <span>Dr. Brown &nbsp &nbsp</span>
                                     </div>
                                 </div>
                             </div>
@@ -201,7 +191,7 @@
                                 </div>
                                 <div class="col-md-8">
                                     <h3 class="card-title">
-                                        <a href="#pablo">Dental Sealants</a>
+                                        <a href="#pablo">Advanced Diagnostic Testing for Glaucoma, Macular Degeneration and Diabetic Retinopathy</a>
                                     </h3>
                                     <p class="card-description">
                                         PUTHERE...
@@ -210,11 +200,9 @@
                                     <div class="author">
                                         <!-- <div style="margin-bottom: 0px;"><span>Procedures by:</span></div>
                                         <br> -->
-                                        <span>By: &nbsp &nbsp</span>
-                                        <img v-lazy="'img/dentist/DrBrock.jpg'" alt="..." class="avatar img-raised">
-                                        <span>Dr. Brock &nbsp &nbsp</span>
-                                        <img v-lazy="'img/dentist/DrVanDyke.jpg'" alt="..." class="avatar img-raised">
-                                        <span>Dr. Van Dyke</span>
+                                        <span>&nbsp &nbsp</span>
+                                        <img v-lazy="'img/BFV/DocBrownHeadshot.jpg'" alt="..." class="avatar img-raised">
+                                        <span>Dr. Brown &nbsp &nbsp</span>
                                     </div>
                                 </div>
                             </div>
@@ -228,7 +216,7 @@
                                 </div>
                                 <div class="col-md-8">
                                     <h3 class="card-title">
-                                        <a href="#pablo">Digital X-Rays</a>
+                                        <a href="#pablo">Cataract Surgery Co-Management</a>
                                     </h3>
                                     <p class="card-description">
                                         PUTHERE...
@@ -237,11 +225,34 @@
                                     <div class="author">
                                         <!-- <div style="margin-bottom: 0px;"><span>Procedures by:</span></div>
                                         <br> -->
-                                        <span>By: &nbsp &nbsp</span>
-                                        <img v-lazy="'img/dentist/DrBrock.jpg'" alt="..." class="avatar img-raised">
-                                        <span>Dr. Brock &nbsp &nbsp</span>
-                                        <img v-lazy="'img/dentist/DrVanDyke.jpg'" alt="..." class="avatar img-raised">
-                                        <span>Dr. Van Dyke</span>
+                                        <span>&nbsp &nbsp</span>
+                                        <img v-lazy="'img/BFV/DocBrownHeadshot.jpg'" alt="..." class="avatar img-raised">
+                                        <span>Dr. Brown &nbsp &nbsp</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </card>
+                        <card type="blog" plain>
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <div class="card-image">
+                                        <img class="img img-raised rounded" src="img/dentist/image57.jpg" />
+                                    </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <h3 class="card-title">
+                                        <a href="#pablo">Lasik and Refractive Surgery Co-Management</a>
+                                    </h3>
+                                    <p class="card-description">
+                                        PUTHERE...
+                                        <a href="#pablo"> Read More </a>
+                                    </p>
+                                    <div class="author">
+                                        <!-- <div style="margin-bottom: 0px;"><span>Procedures by:</span></div>
+                                        <br> -->
+                                        <span>&nbsp &nbsp</span>
+                                        <img v-lazy="'img/BFV/DocBrownHeadshot.jpg'" alt="..." class="avatar img-raised">
+                                        <span>Dr. Brown &nbsp &nbsp</span>
                                     </div>
                                 </div>
                             </div>
