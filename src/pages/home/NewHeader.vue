@@ -2,12 +2,12 @@
     <div class="cd-section" id="headers" >
         <div class="header-2">
             <div class="page-header header-filter">
-                <div class="page-header-image" style="background-image: url('img/BFV/Eye.jpg')"></div>
+                <div class="page-header-image" style="background-image: url('img/BFV/ContactLense.jpg')"></div>
                 <div class="content-center">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-8 ml-auto mr-auto text-center">
-                                <img src="img/BFV/Brown Family Vision.jpg" style="margin-bottom: 20px;"/>
+                                <img src="img/BFV/LogoTransparent.png" style="margin-bottom: 20px;"/>
                                 
                                 <!-- <h1  class="title"> {{masterData.CompanyName}} </h1> -->
                                 <h5 class="description">{{masterData.WelcomeMessage}}</h5>
