@@ -6,7 +6,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 ml-auto mr-auto text-center">
-                        <h2 class="title">Meet Our Dentists</h2>
+                        <h2 class="title">Meet Our Clinic</h2>
                         <h4 class="description">Our team consists of dedicated individuals who are kind, friendly, and caring. Our staff is here to ensure a pleasant experience during your visit to our office.</h4>
                     </div>
                 </div>
@@ -17,16 +17,16 @@
                                 <div class="col-md-5">
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img" src="img/dentist/Dr_1.png"/>
+                                            <img class="img" src="img/BFV/DocBrownHeadshot.jpg"/>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h3 class="card-title">Tony Brock</h3>
-                                        <h6 class="category text-primary">General Dentist, Practice Owner</h6>
+                                        <h3 class="card-title">Dr. Joel Brown</h3>
+                                        <h6 class="category text-primary">Doctor of Optometry, Practice Owner</h6>
                                         <p class="card-description">
-                                            Dr. Brock received a bachelor's from Purdue and his DDS from Midwestern University.
+                                            Dr. Brown received a bachelor's from BYU and his Doctor of Optomerty from SCC.
                                         </p>
                                     </div>
                                 </div>
@@ -39,16 +39,16 @@
                                 <div class="col-md-5">
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img" src="img/dentist/Dr_3.jpg"/>
+                                            <img class="img" src="img/BFV/SaraHeadshot.jpg"/>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h3 class="card-title">Brynn Van Dyke</h3>
-                                        <h6 class="category text-primary">General Dentist</h6>
+                                        <h3 class="card-title">Sara Fredrikson</h3>
+                                        <h6 class="category text-primary">Opthalmic Assistant</h6>
                                         <p class="card-description">
-                                            Dr. Van Dyke received a bachelor's from Weber and her DDS from Midwestern.
+                                            Sara's Info.
                                         </p>
                                     </div>
                                 </div>
@@ -61,16 +61,16 @@
                                 <div class="col-md-5">
                                     <div class="card-image">
                                         <a href="#pablo">
-                                            <img class="img" src="img/dentist/Dr_2.jpg"/>
+                                            <img class="img" src="img/BFV/BrandyHeadshot.jpg"/>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h3 class="card-title">Larry Johns</h3>
-                                        <h6 class="category text-primary">Endodontist</h6>
+                                        <h3 class="card-title">Brandy Brown</h3>
+                                        <h6 class="category text-primary">Practice Administrator</h6>
                                         <p class="card-description">
-                                            Dr. Johns received a bachelor's from Weber and his DDS from Midwestern.
+                                            Brandy's Info
                                         </p>
                                     </div>
                                 </div>
@@ -92,7 +92,7 @@
                                         <h3 class="card-title">Brent Woodmansee</h3>
                                         <h6 class="category text-primary">Sedation and Teeth Extractions</h6>
                                         <p class="card-description">
-                                            Dr. Woodmansee received a bachelor's from Weber and his DDS from Midwestern.
+                                            Brittney's Info
                                         </p>
                                     </div>
                                 </div>

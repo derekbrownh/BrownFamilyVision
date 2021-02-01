@@ -6,7 +6,7 @@
                 <div class="row">
                     <div class="col-md-8 ml-auto mr-auto">
                         <h2 class="title">Why Choose Us?</h2>
-                        <h4 class="description">Our friendly and competent staff are experts in providing comfort and quality care. With a gentle, family-oriented approach, we use the latest and greatest in dental technology and treatment options, as well as the most advanced equipment sterilization process available. We offer care that is comfortable and convenient for you and your entire family.</h4>
+                        <h4 class="description">Our friendly and competent staff are experts in providing comfort and quality care. With a gentle, family-oriented approach, we use the latest and greatest in optometry technology and treatment options, as well as the most advanced equipment sterilization process available. We offer care that is comfortable and convenient for you and your entire family.</h4>
                     </div>
                 </div>
                 <div class="row">
@@ -16,7 +16,7 @@
                                 <i class="now-ui-icons emoticons_satisfied"></i>
                             </div>
                             <h4 class="info-title">No Pressure Environment</h4>
-                            <p class="description">At Stetson Family Dentistry we care about every single patient's needs and seek to do what is best for each individual situation.</p>
+                            <p class="description">{{masterData.WhyUsOne}}</p>
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -25,7 +25,7 @@
                                 <i class="now-ui-icons education_hat"></i>
                             </div>
                             <h4 class="info-title">Qualified Professionals</h4>
-                            <p class="description">Dr. Brock and the rest of our staff are some of Arizona's elite Dentists. Through continued education and an innovative mindset, you will recieve the best care.</p>
+                            <p class="description">{{masterData.WhyUsTwo}}</p>
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -33,8 +33,8 @@
                             <div class="icon icon-warning">
                                 <i class="now-ui-icons education_atom"></i>
                             </div>
-                            <h4 class="info-title">Newest Technology</h4>
-                            <p class="description">We use the safest and newest technology available. This allows our practice to run efficiently and effectively.</p>
+                            <h4 class="info-title">Full Service Clinic</h4>
+                            <p class="description">{{masterData.WhyUsThree}}</p>
                         </div>
                     </div>
                 </div>
@@ -47,7 +47,15 @@
 </template>
 <script>
   import { Card } from '@/components';
+  import json from '../../../public/Json/data.json'
+
   export default {
+    data(){
+        return{
+            masterData: json
+        }
+    },
+
     components: {
       Card
     }
